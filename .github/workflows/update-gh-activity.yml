@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-  name: Update GitHub Activity
+    name: Update GitHub Activity
     runs-on: ubuntu-latest
     permissions:
       contents: write
