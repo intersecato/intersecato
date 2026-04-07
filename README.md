@@ -1,5 +1,5 @@
 [![Actions Status](https://github.com/intersecato/intersecato/workflows/wakatime-stats/badge.svg)](https://github.com/intersecato/intersecato/actions)
-[![Actions Status](https://github.com/intersecato/intersecato/workflows/update-gh-activity/badge.svg)](https://github.com/intersecato/intersecato/actions)
+[![Actions Status](https://github.com/intersecato/intersecato/workflows/waka-metrics/badge.svg)](https://github.com/intersecato/intersecato/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=intersecato.intersecato)
 
 <p align="center">
@@ -36,11 +36,11 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 ```
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=npedrini03&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false">
 </p>
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=npedrini03&count=5">
 </p>
 
 
