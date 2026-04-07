@@ -63,54 +63,46 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C377%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-120.91%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.06%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 550.7 kB Used in GitHub's Storage 
+> 📦 664.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,890 Contributions in the Year 2026
+> 🏆 3,115 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 111 Public Repositories 
+> 📜 15 Public Repositories 
  > 
-> 🔑 40 Private Repositories 
+> 🔑 41 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2040 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-🌆 Daytime                7856 commits        █████████░░░░░░░░░░░░░░░░   36.33 % 
-🌃 Evening                8008 commits        █████████░░░░░░░░░░░░░░░░   37.03 % 
-🌙 Night                  3721 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+🌞 Morning                4066 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+🌆 Daytime                10648 commits       ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+🌃 Evening                6384 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+🌙 Night                  20999 commits       ████████████░░░░░░░░░░░░░   49.88 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Dubai
+🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    8 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   35.05 % 
-Markdown                 5 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-YAML                     3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-TypeScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-TOML                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sirb_autonomy_dev        5 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
-sirb_autonomy_template   2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-arrc_si_devel            1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-sirb_monitoring          1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-sirb_autonomy_c2         1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/04/2026 13:54:37 UTC
+ Last Updated on 07/04/2026 13:59:15 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
