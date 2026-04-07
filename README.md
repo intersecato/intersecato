@@ -47,11 +47,11 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/61) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
-2. 🎉 Merged PR [#18](https://github.com/Unchained-Labs/otter/pull/18) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
-3. 💪 Opened PR [#18](https://github.com/Unchained-Labs/otter/pull/18) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
-4. 🎉 Merged PR [#17](https://github.com/Unchained-Labs/otter/pull/17) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
-5. 🎉 Merged PR [#16](https://github.com/Unchained-Labs/otter/pull/16) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
+1. 🗣 Commented on [#24517](https://github.com/google-gemini/gemini-cli/issues/24517#issuecomment-4198879459) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+2. 🗣 Commented on [#24747](https://github.com/google-gemini/gemini-cli/issues/24747#issuecomment-4193458288) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+3. 🗣 Commented on [#24517](https://github.com/google-gemini/gemini-cli/issues/24517#issuecomment-4189608023) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+4. 🚀 Published release [0.9.9](https://github.com/CoralRP/AtlantisUpdates/releases/tag/v0.9.9) in [CoralRP/AtlantisUpdates](https://github.com/CoralRP/AtlantisUpdates)
+5. 🚀 Published release [0.9.8](https://github.com/CoralRP/AtlantisUpdates/releases/tag/v0.9.8) in [CoralRP/AtlantisUpdates](https://github.com/CoralRP/AtlantisUpdates)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
