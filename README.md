@@ -1,75 +1,127 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/intersecato/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/intersecato/github-stats/master/generated/languages.svg#gh-dark-mode-only"  />
-</div>
+[![Actions Status](https://github.com/intersecato/intersecato/workflows/wakatime-stats/badge.svg)](https://github.com/intersecato/intersecato/actions)
+[![Actions Status](https://github.com/intersecato/intersecato/workflows/update-gh-activity/badge.svg)](https://github.com/intersecato/intersecato/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=intersecato.intersecato)
 
-<div align="left">
-</div>
+<p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p>
 
-###
+<p align="center">
+  <img src="https://socialify.git.ci/intersecato/intersecato/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="intersecato" width="700" height="300" />
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/doctrine/doctrine-original.svg" height="30" alt="doctrine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" height="30" alt="handlebars logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/niccolo.pedrinii/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=niccolo.pedrinii&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=intersecato&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  <a href="https://t.me/intersercato" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=@intersecato&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-<a href="https://www.credly.com/badges/77e5d252-bd1c-4ff7-b67b-d819b18c54ad" target="_blank">
-<img src=https://images.credly.com/size/220x220/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png />
+<p align="center">
+<br/>
+<a href="https://instagram.com/niccolo.pedrinii">
+  <img alt="Instagram" width="50px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
 </a>
-<a href="https://vaadin.com/learn/certificate/83e81c9d-a2e4-42ba-bad7-f19b9bd04343" target="_blank">
-<img src="https://avatars.githubusercontent.com/u/1171922?s=200&v=4" width="220" height="220" />
+<a href="https://t.me/intersecato">
+  <img alt="Telegram" width="50px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />
 </a>
-</div>
+<br>
+</p>
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=intersecato&theme=github-dark-dimmed&custom_title=intersecato%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+```yaml
+name: Niccolò Pedrini
+from: Bergamo (Italy)
+job: Engineering student
+education: ["Scientific High School"]
+fields_of_interests: ["Software Engineering", "Aerospace & Space", "Real-Time Applications", "Web Technologies", "Simulation & Modeling"]
+technical_background: ["Python", "Node.js", "React", "Java"]
+currently_learning: ["Advanced Frontend", "Backend Systems", "Cloud Infrastructure"]
+will_learn: ["Scalable Backend Systems", "Embedded Development", "Aerospace Software"]
+hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
+```
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+</p>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
+</p>
+
+
+**:zap: Recent Activity:**
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#61](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide/pull/61) in [ShisatoYano/AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide)
+2. 🎉 Merged PR [#18](https://github.com/Unchained-Labs/otter/pull/18) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
+3. 💪 Opened PR [#18](https://github.com/Unchained-Labs/otter/pull/18) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
+4. 🎉 Merged PR [#17](https://github.com/Unchained-Labs/otter/pull/17) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
+5. 🎉 Merged PR [#16](https://github.com/Unchained-Labs/otter/pull/16) in [Unchained-Labs/otter](https://github.com/Unchained-Labs/otter)
+<!--END_SECTION:activity-->
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C377%20hrs%2051%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-120.91%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 550.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,890 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 111 Public Repositories 
+ > 
+> 🔑 40 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2040 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+🌆 Daytime                7856 commits        █████████░░░░░░░░░░░░░░░░   36.33 % 
+🌃 Evening                8008 commits        █████████░░░░░░░░░░░░░░░░   37.03 % 
+🌙 Night                  3721 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+Other                    8 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   35.05 % 
+Markdown                 5 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+YAML                     3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+TypeScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+TOML                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+
+🐱‍💻 Projects: 
+sirb_autonomy_dev        5 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+sirb_autonomy_template   2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+arrc_si_devel            1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+sirb_monitoring          1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+sirb_autonomy_c2         1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+```
+
+
+ Last Updated on 06/04/2026 13:54:37 UTC
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-simple-->
+
+```text
+From: 16 July 2020 - To: 05 April 2026
+
+Total Time: 2,377 hrs 51 mins
+
+C++                        746 hrs 5 mins  ⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.38 %
+Python                     375 hrs 49 mins ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.81 %
+Go                         313 hrs 39 mins ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.19 %
+C                          146 hrs 41 mins ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.17 %
+YAML                       138 hrs 24 mins ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.82 %
+Bash                       121 hrs 28 mins ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.11 %
+```
+
+<!--END_SECTION:waka-simple-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
