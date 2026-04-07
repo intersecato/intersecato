@@ -11,11 +11,9 @@
 </p>
 
 <p align="center">
-<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
-</p>
-
-<p align="center">
-  <img src="https://socialify.git.ci/intersecato/intersecato/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="intersecato" width="700" height="300" />
+  <img alt="loficity" height="180px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" />
+  <img src="https://socialify.git.ci/intersecato/intersecato/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Plus&theme=Dark" 
+       alt="intersecato" height="180px" />
 </p>
 
 <p align="center">
