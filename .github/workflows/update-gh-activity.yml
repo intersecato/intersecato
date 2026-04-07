@@ -1,4 +1,4 @@
-name: update-gh-activity
+name: Github Activity
 
 on:
   workflow_dispatch:

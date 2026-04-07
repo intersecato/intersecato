@@ -1,4 +1,4 @@
-name: wakatime-stats
+name: Waka Metrics
 
 on:
   workflow_dispatch:
