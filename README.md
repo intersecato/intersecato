@@ -1,6 +1,14 @@
-[![Actions Status](https://github.com/intersecato/intersecato/workflows/github-activity/badge.svg)](https://github.com/intersecato/intersecato/actions)
-[![Actions Status](https://github.com/intersecato/intersecato/workflows/waka-metrics/badge.svg)](https://github.com/intersecato/intersecato/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=intersecato.intersecato)
+<p align="center">
+  <a href="https://github.com/intersecato/intersecato/actions">
+    <img src="https://github.com/intersecato/intersecato/workflows/github-activity/badge.svg" />
+  </a>
+  <a href="https://github.com/intersecato/intersecato/actions">
+    <img src="https://github.com/intersecato/intersecato/workflows/waka-devmetrics/badge.svg" />
+  </a>
+  <a href="https://github.com/intersecato/intersecato/actions">
+    <img src="https://github.com/intersecato/intersecato/workflows/waka-metrics/badge.svg" />
+  </a>
+</p>
 
 <p align="center">
 <img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
