@@ -1,4 +1,4 @@
-name: Waka DevMetrics
+name: waka-devmetrics
 
 on:
   workflow_dispatch:
