@@ -1,12 +1,14 @@
 <p align="center">
-  <a href="https://github.com/intersecato/intersecato/actions">
-    <img src="https://github.com/intersecato/intersecato/workflows/github-activity/badge.svg" />
+  <a href="https://github.com/intersecato/intersecato/actions" style="text-decoration:none;">
+    <img src="https://github.com/intersecato/intersecato/workflows/github-activity/badge.svg" style="border:0;" />
   </a>
-  <a href="https://github.com/intersecato/intersecato/actions">
-    <img src="https://github.com/intersecato/intersecato/workflows/waka-devmetrics/badge.svg" />
+
+  <a href="https://github.com/intersecato/intersecato/actions" style="text-decoration:none;">
+    <img src="https://github.com/intersecato/intersecato/workflows/waka-devmetrics/badge.svg" style="border:0;" />
   </a>
-  <a href="https://github.com/intersecato/intersecato/actions">
-    <img src="https://github.com/intersecato/intersecato/workflows/waka-metrics/badge.svg" />
+
+  <a href="https://github.com/intersecato/intersecato/actions" style="text-decoration:none;">
+    <img src="https://github.com/intersecato/intersecato/workflows/waka-metrics/badge.svg" style="border:0;" />
   </a>
 </p>
 
