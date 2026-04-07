@@ -1,4 +1,4 @@
-[![Actions Status](https://github.com/intersecato/intersecato/workflows/wakatime-stats/badge.svg)](https://github.com/intersecato/intersecato/actions)
+[![Actions Status](https://github.com/intersecato/intersecato/workflows/github-activity/badge.svg)](https://github.com/intersecato/intersecato/actions)
 [![Actions Status](https://github.com/intersecato/intersecato/workflows/waka-metrics/badge.svg)](https://github.com/intersecato/intersecato/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=intersecato.intersecato)
 
@@ -28,7 +28,7 @@ name: Niccolò Pedrini
 from: Bergamo (Italy)
 job: Engineering student
 education: ["Scientific High School"]
-fields_of_interests: ["Software Engineering", "Aerospace & Space", "Real-Time Applications", "Web Technologies", "Simulation & Modeling"]
+fields_of_interests: ["Software Engineering", "Aerospace & Space", "Web Technologies", "Simulation & Modeling"]
 technical_background: ["Python", "Node.js", "React", "Java"]
 currently_learning: ["Advanced Frontend", "Backend Systems", "Cloud Infrastructure"]
 will_learn: ["Scalable Backend Systems", "Embedded Development", "Aerospace Software"]
