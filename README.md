@@ -63,15 +63,15 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2020%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.06%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.64%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 664.1 kB Used in GitHub's Storage 
  > 
-> 🏆 3,115 Contributions in the Year 2026
+> 🏆 3,171 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -82,10 +82,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4066 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-🌆 Daytime                10648 commits       ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
-🌃 Evening                6384 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-🌙 Night                  20999 commits       ████████████░░░░░░░░░░░░░   49.88 % 
+🌞 Morning                4088 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+🌆 Daytime                10701 commits       ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+🌃 Evening                6416 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+🌙 Night                  21052 commits       ████████████░░░░░░░░░░░░░   49.82 % 
 ```
 
 
@@ -95,14 +95,21 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 27 mins        ███████████████████████░░   90.57 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+TeX                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+weapons-module           27 mins             ███████░░░░░░░░░░░░░░░░░░   28.45 % 
+laroc                    25 mins             ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+texture-module           14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+sign-module              9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+AtlantisRP               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 ```
 
 
- Last Updated on 07/04/2026 13:59:15 UTC
+ Last Updated on 08/04/2026 14:10:19 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
