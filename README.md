@@ -63,15 +63,15 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%202%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.07%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 664.1 kB Used in GitHub's Storage 
+> 📦 664.2 kB Used in GitHub's Storage 
  > 
-> 🏆 3,290 Contributions in the Year 2026
+> 🏆 3,326 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -82,10 +82,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4081 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-🌆 Daytime                10723 commits       ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-🌃 Evening                6427 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-🌙 Night                  21093 commits       ████████████░░░░░░░░░░░░░   49.84 % 
+🌞 Morning                4094 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+🌆 Daytime                10746 commits       ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+🌃 Evening                6467 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+🌙 Night                  21132 commits       ████████████░░░░░░░░░░░░░   49.79 % 
 ```
 
 
@@ -95,22 +95,22 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     14 hrs 22 mins      ████████████████░░░░░░░░░   62.09 % 
-YAML                     2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-JSON                     2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Bash                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Other                    1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Java                     15 hrs 4 mins       ██████████████░░░░░░░░░░░   58.00 % 
+YAML                     3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+JSON                     2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Bash                     2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Other                    2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
 
 🐱‍💻 Projects: 
-marketing-module         3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Unknown Project          2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-AtlantisRP               2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-inventorylogger-module   2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-laroc                    2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Unknown Project          4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+marketing-module         3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+AtlantisRP               2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+inventorylogger-module   2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+laroc                    2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
 ```
 
 
- Last Updated on 11/04/2026 13:27:41 UTC
+ Last Updated on 12/04/2026 13:31:17 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
