@@ -63,15 +63,15 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2051%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.75%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.17%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 620.2 kB Used in GitHub's Storage 
+> 📦 620.3 kB Used in GitHub's Storage 
  > 
-> 🏆 4,655 Contributions in the Year 2026
+> 🏆 4,717 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -79,38 +79,8 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
  > 
 > 🔑 40 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                4375 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-🌆 Daytime                10966 commits       ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
-🌃 Evening                6638 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-🌙 Night                  21731 commits       ████████████░░░░░░░░░░░░░   49.72 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Rome
-
-💬 Programming Languages: 
-Java                     22 hrs 17 mins      █████████████████░░░░░░░░   66.11 % 
-YAML                     5 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Groovy                   1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Other                    1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-JSON                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-
-🐱‍💻 Projects: 
-fire-module              3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Unknown Project          3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-bomb-module              2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-transport-module         2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-tab-module               2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-```
-
-
- Last Updated on 13/05/2026 15:09:30 UTC
+ Last Updated on 14/05/2026 14:49:00 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
