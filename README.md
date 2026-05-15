@@ -86,14 +86,14 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 06 April 2026 - To: 12 May 2026
+From: 06 April 2026 - To: 14 May 2026
 
-Total Time: 164 hrs 19 mins
+Total Time: 170 hrs 31 mins
 
-Java              91 hrs 7 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.46 %
-YAML              19 hrs 38 mins  ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.95 %
-TypeScript        11 hrs 18 mins  ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.89 %
-Other             9 hrs 56 mins   ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.05 %
+Java              94 hrs 35 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.47 %
+YAML              20 hrs 43 mins  ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.16 %
+TypeScript        12 hrs 3 mins   ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.07 %
+Other             10 hrs 16 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.02 %
 ```
 
 <!--END_SECTION:waka-simple-->
