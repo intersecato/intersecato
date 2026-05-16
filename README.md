@@ -63,15 +63,15 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2053%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.17%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.90%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 620.3 kB Used in GitHub's Storage 
  > 
-> 🏆 4,717 Contributions in the Year 2026
+> 🏆 4,793 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -79,8 +79,38 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
  > 
 > 🔑 40 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 14/05/2026 14:49:00 UTC
+```text
+🌞 Morning                4449 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+🌆 Daytime                11257 commits       ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
+🌃 Evening                6916 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+🌙 Night                  21940 commits       ████████████░░░░░░░░░░░░░   49.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+Java                     18 hrs 39 mins      █████████████████░░░░░░░░   66.74 % 
+YAML                     2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+JSON                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Other                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Groovy                   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+
+🐱‍💻 Projects: 
+fire-module              5 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+bomb-module              3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Unknown Project          1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+website                  1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+casino-module            1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+```
+
+
+ Last Updated on 16/05/2026 14:00:43 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
