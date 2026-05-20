@@ -63,13 +63,15 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-221%20hrs%2016%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.78%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 620.5 kB Used in GitHub's Storage 
+> 📦 620.7 kB Used in GitHub's Storage 
  > 
-> 🏆 4,878 Contributions in the Year 2026
+> 🏆 4,971 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -77,8 +79,38 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
  > 
 > 🔑 40 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 18/05/2026 16:08:37 UTC
+```text
+🌞 Morning                4413 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+🌆 Daytime                11085 commits       ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+🌃 Evening                6723 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+🌙 Night                  21965 commits       ████████████░░░░░░░░░░░░░   49.71 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+Java                     15 hrs 24 mins      ██████████████░░░░░░░░░░░   56.99 % 
+YAML                     5 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+Python                   1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+TypeScript               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Other                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+
+🐱‍💻 Projects: 
+phone-module             4 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Unknown Project          4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+fire-module              2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+production-module        1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+configs                  1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+```
+
+
+ Last Updated on 20/05/2026 16:01:02 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
