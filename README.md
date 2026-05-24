@@ -63,15 +63,15 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-232%20hrs%2049%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.80%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.81%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 620.6 kB Used in GitHub's Storage 
+> 📦 620.7 kB Used in GitHub's Storage 
  > 
-> 🏆 5,158 Contributions in the Year 2026
+> 🏆 5,173 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -82,10 +82,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4503 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-🌆 Daytime                11102 commits       ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-🌃 Evening                6764 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-🌙 Night                  22035 commits       ████████████░░░░░░░░░░░░░   49.62 % 
+🌞 Morning                4511 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+🌆 Daytime                11145 commits       ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
+🌃 Evening                6795 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+🌙 Night                  22059 commits       ████████████░░░░░░░░░░░░░   49.56 % 
 ```
 
 
@@ -95,22 +95,22 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     14 hrs 41 mins      ████████████░░░░░░░░░░░░░   47.45 % 
-Markdown                 4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-YAML                     3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-TeX                      3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Java                     13 hrs 24 mins      ████████████░░░░░░░░░░░░░   47.75 % 
+Markdown                 4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+YAML                     3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+TeX                      2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Python                   1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 
 🐱‍💻 Projects: 
-phone-module             5 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-tesi                     4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Unknown Project          3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-production-module        1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-protect-module           1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+phone-module             5 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+Unknown Project          4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+tesi                     3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+production-module        1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+protect-module           1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 ```
 
 
- Last Updated on 23/05/2026 14:07:27 UTC
+ Last Updated on 24/05/2026 14:03:41 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
