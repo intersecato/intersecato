@@ -63,7 +63,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%2048%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.80%20million%20lines%20of%20code-blue?style=flat)
 
@@ -71,7 +71,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 > 📦 620.8 kB Used in GitHub's Storage 
  > 
-> 🏆 5,287 Contributions in the Year 2026
+> 🏆 5,320 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -79,38 +79,8 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
  > 
 > 🔑 40 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                4476 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
-🌆 Daytime                11071 commits       ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
-🌃 Evening                6710 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-🌙 Night                  22109 commits       ████████████░░░░░░░░░░░░░   49.83 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Rome
-
-💬 Programming Languages: 
-Java                     7 hrs 21 mins       ███████████░░░░░░░░░░░░░░   43.06 % 
-Markdown                 4 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
-Other                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-TypeScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-
-🐱‍💻 Projects: 
-phone-module             3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-Atlantis                 1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-backpacks-module         1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-Unknown Project          1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-website                  1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-```
-
-
- Last Updated on 28/05/2026 16:37:09 UTC
+ Last Updated on 29/05/2026 16:19:08 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
