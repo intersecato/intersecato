@@ -63,7 +63,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-239%20hrs%2010%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.80%20million%20lines%20of%20code-blue?style=flat)
 
@@ -71,7 +71,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 > 📦 620.8 kB Used in GitHub's Storage 
  > 
-> 🏆 5,320 Contributions in the Year 2026
+> 🏆 5,339 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -79,8 +79,38 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
  > 
 > 🔑 40 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 29/05/2026 16:19:08 UTC
+```text
+🌞 Morning                4505 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+🌆 Daytime                11119 commits       ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+🌃 Evening                6759 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+🌙 Night                  22170 commits       ████████████░░░░░░░░░░░░░   49.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+Java                     5 hrs 59 mins       ███████████░░░░░░░░░░░░░░   45.89 % 
+Markdown                 2 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
+TypeScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Kotlin                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+
+🐱‍💻 Projects: 
+phone-module             3 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+website                  1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+tesi                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Unknown Project          42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+police-module            39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+```
+
+
+ Last Updated on 30/05/2026 14:09:03 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
