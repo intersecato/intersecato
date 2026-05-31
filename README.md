@@ -71,7 +71,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 > 📦 620.8 kB Used in GitHub's Storage 
  > 
-> 🏆 5,339 Contributions in the Year 2026
+> 🏆 5,347 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -83,9 +83,9 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 ```text
 🌞 Morning                4505 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-🌆 Daytime                11119 commits       ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+🌆 Daytime                11121 commits       ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
 🌃 Evening                6759 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-🌙 Night                  22170 commits       ████████████░░░░░░░░░░░░░   49.76 % 
+🌙 Night                  22176 commits       ████████████░░░░░░░░░░░░░   49.77 % 
 ```
 
 
@@ -95,22 +95,22 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     5 hrs 59 mins       ███████████░░░░░░░░░░░░░░   45.89 % 
-Markdown                 2 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.46 % 
-TypeScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Kotlin                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Java                     4 hrs 2 mins        ████████████░░░░░░░░░░░░░   47.31 % 
+TypeScript               57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Bash                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Kotlin                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 
 🐱‍💻 Projects: 
-phone-module             3 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   26.63 % 
-website                  1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-tesi                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-Unknown Project          42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
-police-module            39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+phone-module             2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
+website                  1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+tesi                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+Unknown Project          49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+police-module            38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
 ```
 
 
- Last Updated on 30/05/2026 14:09:03 UTC
+ Last Updated on 31/05/2026 14:14:34 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
