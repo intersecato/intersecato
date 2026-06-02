@@ -116,7 +116,7 @@ police-module            38 mins             ██░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 06 April 2026 - To: 30 May 2026
+From: 06 April 2026 - To: 31 May 2026
 
 Total Time: 239 hrs 10 mins
 
