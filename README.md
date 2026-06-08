@@ -55,8 +55,8 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.9.15](https://github.com/CoralRP/AtlantisUpdates/releases/tag/v0.9.15) in [CoralRP/AtlantisUpdates](https://github.com/CoralRP/AtlantisUpdates)
-2. 🚀 Published release [0.9.13](https://github.com/CoralRP/AtlantisUpdates/releases/tag/v0.9.13) in [CoralRP/AtlantisUpdates](https://github.com/CoralRP/AtlantisUpdates)
+1. 🚀 Published release [0.9.16](https://github.com/CoralRP/AtlantisUpdates/releases/tag/v0.9.16) in [CoralRP/AtlantisUpdates](https://github.com/CoralRP/AtlantisUpdates)
+2. 🚀 Published release [0.9.15](https://github.com/CoralRP/AtlantisUpdates/releases/tag/v0.9.15) in [CoralRP/AtlantisUpdates](https://github.com/CoralRP/AtlantisUpdates)
 3. 🚀 Published release [0.9.12](https://github.com/CoralRP/AtlantisUpdates/releases/tag/v0.9.12) in [CoralRP/AtlantisUpdates](https://github.com/CoralRP/AtlantisUpdates)
 4. 🗣 Commented on [#41611](https://github.com/anthropics/claude-code/pull/41611#issuecomment-4205427566) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
 5. 🗣 Commented on [#24880](https://github.com/google-gemini/gemini-cli/issues/24880#issuecomment-4205414011) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
