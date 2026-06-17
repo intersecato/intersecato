@@ -69,9 +69,9 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 **🐱 My GitHub Data** 
 
-> 📦 622.2 kB Used in GitHub's Storage 
+> 📦 622.3 kB Used in GitHub's Storage 
  > 
-> 🏆 5,975 Contributions in the Year 2026
+> 🏆 5,986 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -82,10 +82,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4589 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-🌆 Daytime                11495 commits       ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
-🌃 Evening                7138 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-🌙 Night                  22727 commits       ████████████░░░░░░░░░░░░░   49.46 % 
+🌞 Morning                4589 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+🌆 Daytime                11496 commits       ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
+🌃 Evening                7139 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+🌙 Night                  22736 commits       ████████████░░░░░░░░░░░░░   49.47 % 
 ```
 
 
@@ -95,22 +95,22 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     17 hrs 19 mins      █████████████░░░░░░░░░░░░   51.65 % 
-YAML                     5 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Python                   3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Markdown                 3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-JSON                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Java                     11 hrs 43 mins      ████████████░░░░░░░░░░░░░   49.03 % 
+Python                   3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Markdown                 3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+YAML                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 🐱‍💻 Projects: 
-anticheat-module         8 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
-AtlantisSupport          6 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Unknown Project          5 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-inventorylogger-module   1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
-vehicles-module          1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+AtlantisSupport          6 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.24 % 
+anticheat-module         2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Unknown Project          2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+inventorylogger-module   1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+vehicles-module          1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 ```
 
 
- Last Updated on 16/06/2026 17:30:21 UTC
+ Last Updated on 17/06/2026 16:15:36 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
