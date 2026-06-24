@@ -63,15 +63,15 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-345%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-351%20hrs%2046%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.07%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.48%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 623.9 kB Used in GitHub's Storage 
  > 
-> 🏆 6,181 Contributions in the Year 2026
+> 🏆 6,193 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -82,10 +82,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4531 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-🌆 Daytime                11284 commits       ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-🌃 Evening                6885 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-🌙 Night                  22737 commits       █████████████░░░░░░░░░░░░   50.04 % 
+🌞 Morning                4513 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+🌆 Daytime                11260 commits       ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
+🌃 Evening                6860 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+🌙 Night                  22718 commits       █████████████░░░░░░░░░░░░   50.09 % 
 ```
 
 
@@ -95,22 +95,22 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     14 hrs 36 mins      ████████████░░░░░░░░░░░░░   46.01 % 
-TypeScript               3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-YAML                     2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-Other                    2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-TeX                      1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Java                     17 hrs 58 mins      ████████████░░░░░░░░░░░░░   46.40 % 
+TypeScript               3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+TeX                      3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+YAML                     3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Other                    2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 
 🐱‍💻 Projects: 
-casino-module            4 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-website                  4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Unknown Project          2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-furniture-module         2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Atlantis                 2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+casino-module            6 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+website                  4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+tesi                     3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+Unknown Project          2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Atlantis                 2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 ```
 
 
- Last Updated on 23/06/2026 15:35:28 UTC
+ Last Updated on 24/06/2026 15:05:45 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
