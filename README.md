@@ -69,9 +69,9 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 **🐱 My GitHub Data** 
 
-> 📦 623.9 kB Used in GitHub's Storage 
+> 📦 624.0 kB Used in GitHub's Storage 
  > 
-> 🏆 6,245 Contributions in the Year 2026
+> 🏆 6,268 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -83,9 +83,9 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 ```text
 🌞 Morning                4537 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-🌆 Daytime                11298 commits       ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-🌃 Evening                6898 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-🌙 Night                  22769 commits       █████████████░░░░░░░░░░░░   50.04 % 
+🌆 Daytime                11312 commits       ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
+🌃 Evening                6901 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+🌙 Night                  22775 commits       █████████████░░░░░░░░░░░░   50.03 % 
 ```
 
 
@@ -95,22 +95,22 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     21 hrs 47 mins      ████████████░░░░░░░░░░░░░   49.74 % 
-TeX                      4 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-TypeScript               3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Other                    3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-YAML                     3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Java                     15 hrs 1 min        ███████████░░░░░░░░░░░░░░   43.00 % 
+TeX                      4 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+TypeScript               3 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Other                    2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Markdown                 2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 
 🐱‍💻 Projects: 
-casino-module            10 hrs 18 mins      ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-website                  5 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-tesi                     3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Atlantis                 3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-furniture-module         3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+casino-module            6 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+website                  5 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+tesi                     3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Atlantis                 2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Unknown Project          2 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
 ```
 
 
- Last Updated on 25/06/2026 15:04:32 UTC
+ Last Updated on 26/06/2026 14:56:03 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
