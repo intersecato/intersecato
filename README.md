@@ -55,10 +55,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1353](https://github.com/retrooper/packetevents/issues/1353) in [retrooper/packetevents](https://github.com/retrooper/packetevents)
-2. 🔒 Closed issue [#1352](https://github.com/retrooper/packetevents/issues/1352) in [retrooper/packetevents](https://github.com/retrooper/packetevents)
-3. 🔒 Closed issue [#3037](https://github.com/NamelessMC/Nameless/issues/3037) in [NamelessMC/Nameless](https://github.com/NamelessMC/Nameless)
-4. 🗣 Commented on [#41611](https://github.com/anthropics/claude-code/pull/41611#issuecomment-4205427566) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+1. 🚀 Published release [0.9.17](https://github.com/CoralRP/AtlantisUpdates/releases/tag/v0.9.17) in [CoralRP/AtlantisUpdates](https://github.com/CoralRP/AtlantisUpdates)
+2. 🔒 Closed issue [#1353](https://github.com/retrooper/packetevents/issues/1353) in [retrooper/packetevents](https://github.com/retrooper/packetevents)
+3. 🔒 Closed issue [#1352](https://github.com/retrooper/packetevents/issues/1352) in [retrooper/packetevents](https://github.com/retrooper/packetevents)
+4. 🔒 Closed issue [#3037](https://github.com/NamelessMC/Nameless/issues/3037) in [NamelessMC/Nameless](https://github.com/NamelessMC/Nameless)
 5. 🗣 Commented on [#24880](https://github.com/google-gemini/gemini-cli/issues/24880#issuecomment-4205414011) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
 <!--END_SECTION:activity-->
 
