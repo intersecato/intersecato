@@ -63,15 +63,15 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-413%20hrs%2018%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.10%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.50%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 624.1 kB Used in GitHub's Storage 
  > 
-> 🏆 6,889 Contributions in the Year 2026
+> 🏆 6,931 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -82,10 +82,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4563 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-🌆 Daytime                11590 commits       ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-🌃 Evening                6962 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-🌙 Night                  23092 commits       ████████████░░░░░░░░░░░░░   49.98 % 
+🌞 Morning                4536 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+🌆 Daytime                11530 commits       ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
+🌃 Evening                6908 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+🌙 Night                  23081 commits       █████████████░░░░░░░░░░░░   50.12 % 
 ```
 
 
@@ -95,22 +95,22 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    6 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   32.41 % 
-YAML                     5 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-Java                     3 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-INI                      3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-C++                      1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Java                     7 hrs               ███████░░░░░░░░░░░░░░░░░░   29.38 % 
+Other                    6 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   29.12 % 
+YAML                     6 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+INI                      2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Gradle                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🐱‍💻 Projects: 
-esp32-flightradar        6 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   29.39 % 
-Atlantis                 4 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-configs                  4 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-essential-module         40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-afk-module               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Atlantis                 5 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
+configs                  5 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+esp32-flightradar        3 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+afk-module               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Unknown Project          53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 ```
 
 
- Last Updated on 11/07/2026 13:57:05 UTC
+ Last Updated on 12/07/2026 13:58:50 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
