@@ -55,11 +55,11 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.9.17](https://github.com/CoralRP/AtlantisUpdates/releases/tag/v0.9.17) in [CoralRP/AtlantisUpdates](https://github.com/CoralRP/AtlantisUpdates)
-2. 🔒 Closed issue [#1353](https://github.com/retrooper/packetevents/issues/1353) in [retrooper/packetevents](https://github.com/retrooper/packetevents)
-3. 🔒 Closed issue [#1352](https://github.com/retrooper/packetevents/issues/1352) in [retrooper/packetevents](https://github.com/retrooper/packetevents)
-4. 🔒 Closed issue [#3037](https://github.com/NamelessMC/Nameless/issues/3037) in [NamelessMC/Nameless](https://github.com/NamelessMC/Nameless)
-5. 🗣 Commented on [#24880](https://github.com/google-gemini/gemini-cli/issues/24880#issuecomment-4205414011) in [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)
+1. 🚀 Published release [0.9.18](https://github.com/CoralRP/AtlantisUpdates/releases/tag/v0.9.18) in [CoralRP/AtlantisUpdates](https://github.com/CoralRP/AtlantisUpdates)
+2. 💪 Opened PR [#33](https://github.com/InventivetalentDev/MineskinClient/pull/33) in [InventivetalentDev/MineskinClient](https://github.com/InventivetalentDev/MineskinClient)
+3. 🚀 Published release [0.9.17](https://github.com/CoralRP/AtlantisUpdates/releases/tag/v0.9.17) in [CoralRP/AtlantisUpdates](https://github.com/CoralRP/AtlantisUpdates)
+4. 🔒 Closed issue [#1353](https://github.com/retrooper/packetevents/issues/1353) in [retrooper/packetevents](https://github.com/retrooper/packetevents)
+5. 🔒 Closed issue [#1352](https://github.com/retrooper/packetevents/issues/1352) in [retrooper/packetevents](https://github.com/retrooper/packetevents)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
