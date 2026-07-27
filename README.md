@@ -71,7 +71,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 > 📦 624.2 kB Used in GitHub's Storage 
  > 
-> 🏆 7,399 Contributions in the Year 2026
+> 🏆 7,440 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -82,10 +82,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4581 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-🌆 Daytime                11637 commits       ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
-🌃 Evening                6981 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-🌙 Night                  23418 commits       █████████████░░░░░░░░░░░░   50.23 % 
+🌞 Morning                4576 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+🌆 Daytime                11620 commits       ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
+🌃 Evening                6967 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+🌙 Night                  23455 commits       █████████████░░░░░░░░░░░░   50.31 % 
 ```
 
 
@@ -95,22 +95,22 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     6 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   40.62 % 
-TypeScript               4 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   31.51 % 
-YAML                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
-Other                    48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Java                     5 hrs 50 mins       ████████████░░░░░░░░░░░░░   48.58 % 
+TypeScript               3 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+YAML                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 🐱‍💻 Projects: 
-website                  5 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   38.66 % 
-bank-module              1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-configs                  58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-casino-module            38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-AtlantisClient           30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+website                  3 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   31.47 % 
+bank-module              1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+casino-module            45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+configs                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+AtlantisClient           30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
 
 
- Last Updated on 26/07/2026 14:01:02 UTC
+ Last Updated on 27/07/2026 15:16:22 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
