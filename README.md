@@ -63,7 +63,9 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-416%20hrs%2016%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-304%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.12%20million%20lines%20of%20code-blue?style=flat)
 
@@ -71,7 +73,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 > 📦 624.2 kB Used in GitHub's Storage 
  > 
-> 🏆 7,440 Contributions in the Year 2026
+> 🏆 7,473 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -82,10 +84,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4576 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-🌆 Daytime                11620 commits       ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
-🌃 Evening                6967 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-🌙 Night                  23455 commits       █████████████░░░░░░░░░░░░   50.31 % 
+🌞 Morning                4583 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+🌆 Daytime                11647 commits       ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+🌃 Evening                6983 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+🌙 Night                  23493 commits       █████████████░░░░░░░░░░░░   50.30 % 
 ```
 
 
@@ -95,22 +97,45 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     5 hrs 50 mins       ████████████░░░░░░░░░░░░░   48.58 % 
-TypeScript               3 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   26.04 % 
-YAML                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-Other                    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Java                     4 hrs 52 mins       ██████████████░░░░░░░░░░░   56.28 % 
+TypeScript               1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+YAML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 
 🐱‍💻 Projects: 
-website                  3 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   31.47 % 
-bank-module              1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-casino-module            45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-configs                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-AtlantisClient           30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+bank-module              1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+website                  1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+casino-module            46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+configs                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+AtlantisClient           30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 hrs 3 mins (92.9%)
+
+✍️ 2,757 lines written by AI, 19 lines written by hand (99.32% AI-written)
+
+🔤 120,554,348 Input Tokens, 451,241 Output Tokens
+
+💵 $610.49 Estimated AI Cost This Week
+
+🧠 24 AI Sessions, 158 AI Prompts
+
+Opus                     3,103 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.32% of written lines came from AI
+📝 Concise Prompter — average 203 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 1.15% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/07/2026 15:16:22 UTC
+ Last Updated on 28/07/2026 14:46:22 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
