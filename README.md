@@ -73,7 +73,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 > 📦 624.2 kB Used in GitHub's Storage 
  > 
-> 🏆 7,473 Contributions in the Year 2026
+> 🏆 7,475 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -85,7 +85,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 ```text
 🌞 Morning                4583 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-🌆 Daytime                11647 commits       ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+🌆 Daytime                11648 commits       ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
 🌃 Evening                6983 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
 🌙 Night                  23493 commits       █████████████░░░░░░░░░░░░   50.30 % 
 ```
@@ -97,45 +97,45 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     4 hrs 52 mins       ██████████████░░░░░░░░░░░   56.28 % 
-TypeScript               1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-YAML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Java                     4 hrs 48 mins       ███████████████░░░░░░░░░░   61.82 % 
+TypeScript               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Other                    34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+YAML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Markdown                 29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
 
 🐱‍💻 Projects: 
-bank-module              1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-website                  1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-casino-module            46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-configs                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-AtlantisClient           30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+bank-module              1 hr 30 mins        █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+casino-module            46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+website                  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+configs                  30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+AtlantisClient           30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 3 mins (92.9%)
+⏱ AI Coding Time: 7 hrs 21 mins (94.58%)
 
-✍️ 2,757 lines written by AI, 19 lines written by hand (99.32% AI-written)
+✍️ 2,748 lines written by AI, 19 lines written by hand (99.31% AI-written)
 
-🔤 120,554,348 Input Tokens, 451,241 Output Tokens
+🔤 106,758,457 Input Tokens, 444,390 Output Tokens
 
-💵 $610.49 Estimated AI Cost This Week
+💵 $541.34 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 158 AI Prompts
+🧠 23 AI Sessions, 154 AI Prompts
 
-Opus                     3,103 lines         █████████████████████████   100.00 % 
+Opus                     3,094 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.32% of written lines came from AI
-📝 Concise Prompter — average 203 characters per prompt
+🤖 AI-Driven — 99.31% of written lines came from AI
+📝 Concise Prompter — average 204 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 1.15% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/07/2026 14:46:22 UTC
+ Last Updated on 29/07/2026 14:48:51 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
