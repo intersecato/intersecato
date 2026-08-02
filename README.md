@@ -67,13 +67,13 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-304%20hrs%2035%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.12%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.13%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 624.2 kB Used in GitHub's Storage 
  > 
-> 🏆 7,575 Contributions in the Year 2026
+> 🏆 7,610 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,10 +84,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4601 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-🌆 Daytime                11706 commits       ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
-🌃 Evening                7026 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-🌙 Night                  23600 commits       █████████████░░░░░░░░░░░░   50.28 % 
+🌞 Morning                4610 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+🌆 Daytime                11721 commits       ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
+🌃 Evening                7041 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+🌙 Night                  23638 commits       █████████████░░░░░░░░░░░░   50.28 % 
 ```
 
 
@@ -97,45 +97,38 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     1 hr 28 mins        ██████████████████░░░░░░░   73.32 % 
-YAML                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Other                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Java                     11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-bank-module              36 mins             ████████░░░░░░░░░░░░░░░░░   30.66 % 
-laroc                    17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-configs                  16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-casino-module            15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Atlantis                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+casino-module            7 mins              ███████████████░░░░░░░░░░   59.35 % 
+bank-module              3 mins              ████████░░░░░░░░░░░░░░░░░   32.00 % 
+laroc                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 46 mins (88.6%)
+⏱ AI Coding Time: 11 mins (100.0%)
 
-✍️ 332 lines written by AI, 11 lines written by hand (96.79% AI-written)
+✍️ 8 lines written by AI, 1 lines written by hand (88.89% AI-written)
 
-🔤 33,256,111 Input Tokens, 92,086 Output Tokens
+🔤 1,262,162 Input Tokens, 5,319 Output Tokens
 
-💵 $207.86 Estimated AI Cost This Week
+💵 $69.13 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 30 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
-Opus                     620 lines           █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     312 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.79% of written lines came from AI
-📝 Concise Prompter — average 102 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 4.15% of changed lines were hand-edited
+🤖 AI-Driven — 88.89% of written lines came from AI
+📝 Concise Prompter — average 121 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 11.11% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/08/2026 13:57:38 UTC
+ Last Updated on 02/08/2026 14:00:00 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
