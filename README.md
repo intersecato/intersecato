@@ -63,9 +63,9 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-416%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-304%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-305%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.13%20million%20lines%20of%20code-blue?style=flat)
 
@@ -73,7 +73,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 > 📦 624.2 kB Used in GitHub's Storage 
  > 
-> 🏆 7,610 Contributions in the Year 2026
+> 🏆 7,651 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,10 +84,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4610 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-🌆 Daytime                11721 commits       ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
-🌃 Evening                7041 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-🌙 Night                  23638 commits       █████████████░░░░░░░░░░░░   50.28 % 
+🌞 Morning                4620 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+🌆 Daytime                11762 commits       ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
+🌃 Evening                7077 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+🌙 Night                  23686 commits       █████████████░░░░░░░░░░░░   50.24 % 
 ```
 
 
@@ -97,38 +97,45 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     11 mins             █████████████████████████   100.00 % 
+Java                     17 mins             ████████░░░░░░░░░░░░░░░░░   33.10 % 
+TypeScript               15 mins             ███████░░░░░░░░░░░░░░░░░░   29.91 % 
+JSON                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
+Gradle                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 
 🐱‍💻 Projects: 
-casino-module            7 mins              ███████████████░░░░░░░░░░   59.35 % 
-bank-module              3 mins              ████████░░░░░░░░░░░░░░░░░   32.00 % 
-laroc                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+website                  15 mins             ███████░░░░░░░░░░░░░░░░░░   29.91 % 
+Unknown Project          13 mins             ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+basicjobs-module         4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+laroc                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+tab-module               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 mins (100.0%)
+⏱ AI Coding Time: 30 mins (58.32%)
 
-✍️ 8 lines written by AI, 1 lines written by hand (88.89% AI-written)
+✍️ 78 lines written by AI, 23 lines written by hand (77.23% AI-written)
 
-🔤 1,262,162 Input Tokens, 5,319 Output Tokens
+🔤 44,127 Input Tokens, 212 Output Tokens
 
-💵 $69.13 Estimated AI Cost This Week
+💵 $0.14 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 8 AI Sessions, 16 AI Prompts
 
-Opus                     312 lines           █████████████████████████   100.00 % 
+Gemini                   123 lines           █████████████████████████   100.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.89% of written lines came from AI
-📝 Concise Prompter — average 121 characters per prompt
+🤖 AI-Driven — 77.23% of written lines came from AI
+📄 Detailed Prompter — average 545 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 11.11% of changed lines were hand-edited
+🚀 High AI Trust — 22.64% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/08/2026 14:00:00 UTC
+ Last Updated on 03/08/2026 15:19:14 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
