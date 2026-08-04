@@ -63,7 +63,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs%2032%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-305%20hrs%205%20mins-blue?style=flat)
 
@@ -73,7 +73,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 > 📦 624.2 kB Used in GitHub's Storage 
  > 
-> 🏆 7,651 Contributions in the Year 2026
+> 🏆 7,669 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,10 +84,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4620 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-🌆 Daytime                11762 commits       ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
-🌃 Evening                7077 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-🌙 Night                  23686 commits       █████████████░░░░░░░░░░░░   50.24 % 
+🌞 Morning                4621 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+🌆 Daytime                11768 commits       ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
+🌃 Evening                7079 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+🌙 Night                  23702 commits       █████████████░░░░░░░░░░░░   50.25 % 
 ```
 
 
@@ -97,24 +97,24 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     17 mins             ████████░░░░░░░░░░░░░░░░░   33.10 % 
-TypeScript               15 mins             ███████░░░░░░░░░░░░░░░░░░   29.91 % 
-JSON                     10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-Gradle                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Java                     28 mins             █████████░░░░░░░░░░░░░░░░   37.99 % 
+TypeScript               15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+JSON                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Text                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
 
 🐱‍💻 Projects: 
-website                  15 mins             ███████░░░░░░░░░░░░░░░░░░   29.91 % 
-Unknown Project          13 mins             ███████░░░░░░░░░░░░░░░░░░   26.18 % 
-basicjobs-module         4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-laroc                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-tab-module               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Unknown Project          21 mins             ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+website                  15 mins             █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+boutique-module          11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+basicjobs-module         4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+laroc                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (58.32%)
+⏱ AI Coding Time: 30 mins (40.96%)
 
 ✍️ 78 lines written by AI, 23 lines written by hand (77.23% AI-written)
 
@@ -122,20 +122,20 @@ tab-module               4 mins              ██░░░░░░░░░�
 
 💵 $0.14 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 16 AI Prompts
+🧠 11 AI Sessions, 19 AI Prompts
 
 Gemini                   123 lines           █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 77.23% of written lines came from AI
-📄 Detailed Prompter — average 545 characters per prompt
+📝 Concise Prompter — average 464 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 22.64% of changed lines were hand-edited
 ```
 
 
- Last Updated on 03/08/2026 15:19:14 UTC
+ Last Updated on 04/08/2026 14:50:11 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
