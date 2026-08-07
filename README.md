@@ -63,7 +63,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-420%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%207%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-305%20hrs%205%20mins-blue?style=flat)
 
@@ -73,7 +73,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 > 📦 624.2 kB Used in GitHub's Storage 
  > 
-> 🏆 7,702 Contributions in the Year 2026
+> 🏆 7,725 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -85,9 +85,9 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 ```text
 🌞 Morning                4623 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-🌆 Daytime                11777 commits       ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
-🌃 Evening                7087 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-🌙 Night                  23720 commits       █████████████░░░░░░░░░░░░   50.25 % 
+🌆 Daytime                11779 commits       ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
+🌃 Evening                7089 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+🌙 Night                  23738 commits       █████████████░░░░░░░░░░░░   50.26 % 
 ```
 
 
@@ -97,26 +97,26 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     1 hr 59 mins        █████████████░░░░░░░░░░░░   51.33 % 
-YAML                     42 mins             █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-TypeScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-PHP                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Java                     3 hrs 35 mins       ███████████████░░░░░░░░░░   61.64 % 
+YAML                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Bash                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+TypeScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 
 🐱‍💻 Projects: 
-Unknown Project          52 mins             ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-police-module            36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-DiscordSync              23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-crime-module             23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-configs                  19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+crime-module             1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
+Unknown Project          1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+police-module            36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+anticheat-module         34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+DiscordSync              23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (13.03%)
+⏱ AI Coding Time: 30 mins (8.71%)
 
-✍️ 78 lines written by AI, 191 lines written by hand (29.0% AI-written)
+✍️ 78 lines written by AI, 224 lines written by hand (25.83% AI-written)
 
 🔤 44,127 Input Tokens, 212 Output Tokens
 
@@ -128,14 +128,14 @@ Gemini                   123 lines           ███████████�
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 29.0% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 25.83% of written lines came from AI
 📝 Concise Prompter — average 464 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 71.66% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 77.43% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/08/2026 14:45:54 UTC
+ Last Updated on 07/08/2026 13:35:51 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
