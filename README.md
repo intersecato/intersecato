@@ -141,13 +141,13 @@ Deepseek                 0 lines             ░░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 06 April 2026 - To: 04 August 2026
+From: 06 April 2026 - To: 06 August 2026
 
-Total Time: 453 hrs 14 mins
+Total Time: 457 hrs 9 mins
 
-Java              236 hrs 10 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.11 %
-YAML              44 hrs 12 mins  ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.76 %
-Other             35 hrs 1 min    ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.73 %
+Java              238 hrs 53 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   52.26 %
+YAML              44 hrs 35 mins  ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.75 %
+Other             35 hrs 1 min    ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.66 %
 ```
 
 <!--END_SECTION:waka-simple-->
