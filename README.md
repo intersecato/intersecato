@@ -55,10 +55,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.9.18](https://github.com/CoralRP/AtlantisUpdates/releases/tag/v0.9.18) in [CoralRP/AtlantisUpdates](https://github.com/CoralRP/AtlantisUpdates)
-2. 💪 Opened PR [#33](https://github.com/InventivetalentDev/MineskinClient/pull/33) in [InventivetalentDev/MineskinClient](https://github.com/InventivetalentDev/MineskinClient)
-3. 🚀 Published release [0.9.17](https://github.com/CoralRP/AtlantisUpdates/releases/tag/v0.9.17) in [CoralRP/AtlantisUpdates](https://github.com/CoralRP/AtlantisUpdates)
-4. 🔒 Closed issue [#1353](https://github.com/retrooper/packetevents/issues/1353) in [retrooper/packetevents](https://github.com/retrooper/packetevents)
+1. 🚀 Published release [0.9.20](https://github.com/CoralRP/AtlantisUpdates/releases/tag/v0.9.20) in [CoralRP/AtlantisUpdates](https://github.com/CoralRP/AtlantisUpdates)
+2. 🚀 Published release [0.9.19](https://github.com/CoralRP/AtlantisUpdates/releases/tag/v0.9.19) in [CoralRP/AtlantisUpdates](https://github.com/CoralRP/AtlantisUpdates)
+3. 🚀 Published release [0.9.18](https://github.com/CoralRP/AtlantisUpdates/releases/tag/v0.9.18) in [CoralRP/AtlantisUpdates](https://github.com/CoralRP/AtlantisUpdates)
+4. 💪 Opened PR [#33](https://github.com/InventivetalentDev/MineskinClient/pull/33) in [InventivetalentDev/MineskinClient](https://github.com/InventivetalentDev/MineskinClient)
 5. 🔒 Closed issue [#1352](https://github.com/retrooper/packetevents/issues/1352) in [retrooper/packetevents](https://github.com/retrooper/packetevents)
 <!--END_SECTION:activity-->
 
