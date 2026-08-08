@@ -63,17 +63,17 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-423%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-305%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-306%20hrs%209%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.13%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.12%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 624.2 kB Used in GitHub's Storage 
  > 
-> 🏆 7,725 Contributions in the Year 2026
+> 🏆 7,754 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,10 +84,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4623 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-🌆 Daytime                11779 commits       ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
-🌃 Evening                7089 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-🌙 Night                  23738 commits       █████████████░░░░░░░░░░░░   50.26 % 
+🌞 Morning                4595 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+🌆 Daytime                11700 commits       ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+🌃 Evening                7065 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+🌙 Night                  23701 commits       █████████████░░░░░░░░░░░░   50.36 % 
 ```
 
 
@@ -97,45 +97,45 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     3 hrs 35 mins       ███████████████░░░░░░░░░░   61.64 % 
-YAML                     42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Bash                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-TypeScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Java                     4 hrs 7 mins        ██████████████░░░░░░░░░░░   55.49 % 
+YAML                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 🐱‍💻 Projects: 
-crime-module             1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-Unknown Project          1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-police-module            36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-anticheat-module         34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-DiscordSync              23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+crime-module             1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Unknown Project          1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+AtlantisClient           40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+police-module            36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+anticheat-module         34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 mins (8.71%)
+⏱ AI Coding Time: 1 hr 34 mins (21.27%)
 
-✍️ 78 lines written by AI, 224 lines written by hand (25.83% AI-written)
+✍️ 78 lines written by AI, 225 lines written by hand (25.74% AI-written)
 
 🔤 44,127 Input Tokens, 212 Output Tokens
 
 💵 $0.14 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 19 AI Prompts
+🧠 22 AI Sessions, 23 AI Prompts
 
 Gemini                   123 lines           █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 25.83% of written lines came from AI
-📝 Concise Prompter — average 464 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 77.43% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 25.74% of written lines came from AI
+📝 Concise Prompter — average 386 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 77.64% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/08/2026 13:35:51 UTC
+ Last Updated on 08/08/2026 13:18:32 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
