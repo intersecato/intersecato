@@ -63,9 +63,9 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-423%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-424%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-306%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-306%20hrs%2057%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.12%20million%20lines%20of%20code-blue?style=flat)
 
@@ -73,7 +73,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 > 📦 624.2 kB Used in GitHub's Storage 
  > 
-> 🏆 7,754 Contributions in the Year 2026
+> 🏆 7,770 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -85,9 +85,9 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 ```text
 🌞 Morning                4595 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-🌆 Daytime                11700 commits       ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+🌆 Daytime                11702 commits       ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
 🌃 Evening                7065 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-🌙 Night                  23701 commits       █████████████░░░░░░░░░░░░   50.36 % 
+🌙 Night                  23715 commits       █████████████░░░░░░░░░░░░   50.37 % 
 ```
 
 
@@ -97,24 +97,24 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     4 hrs 7 mins        ██████████████░░░░░░░░░░░   55.49 % 
-YAML                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Java                     4 hrs 7 mins        ████████████░░░░░░░░░░░░░   49.83 % 
+YAML                     1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 
 🐱‍💻 Projects: 
-crime-module             1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Unknown Project          1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
-AtlantisClient           40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-police-module            36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-anticheat-module         34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+crime-module             1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Unknown Project          1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+configs                  50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+AtlantisClient           43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+police-module            36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 34 mins (21.27%)
+⏱ AI Coding Time: 2 hrs 22 mins (28.69%)
 
 ✍️ 78 lines written by AI, 225 lines written by hand (25.74% AI-written)
 
@@ -122,7 +122,7 @@ anticheat-module         34 mins             ██░░░░░░░░░�
 
 💵 $0.14 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 23 AI Prompts
+🧠 24 AI Sessions, 23 AI Prompts
 
 Gemini                   123 lines           █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -135,7 +135,7 @@ Deepseek                 0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 08/08/2026 13:18:32 UTC
+ Last Updated on 09/08/2026 13:22:14 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
