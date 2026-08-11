@@ -67,13 +67,13 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-308%20hrs%206%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.12%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.11%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 624.2 kB Used in GitHub's Storage 
  > 
-> 🏆 7,789 Contributions in the Year 2026
+> 🏆 7,818 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,10 +84,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4590 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-🌆 Daytime                11689 commits       ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-🌃 Evening                7047 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-🌙 Night                  23721 commits       █████████████░░░░░░░░░░░░   50.42 % 
+🌞 Morning                4563 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+🌆 Daytime                11617 commits       ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+🌃 Evening                6987 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+🌙 Night                  23724 commits       █████████████░░░░░░░░░░░░   50.59 % 
 ```
 
 
@@ -97,24 +97,24 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     3 hrs 56 mins       ███████████░░░░░░░░░░░░░░   44.62 % 
-YAML                     1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Other                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-Bash                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-TypeScript               35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Java                     3 hrs 45 mins       ███████████░░░░░░░░░░░░░░   44.42 % 
+YAML                     1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Other                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Bash                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+TypeScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
 
 🐱‍💻 Projects: 
-crime-module             1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Unknown Project          1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-configs                  50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-AtlantisClient           43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-website                  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+crime-module             1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+Unknown Project          1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+configs                  48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+AtlantisClient           43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+website                  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 6 mins (35.1%)
+⏱ AI Coding Time: 3 hrs 5 mins (36.61%)
 
 ✍️ 0 lines written by AI, 210 lines written by hand (0.0% AI-written)
 
@@ -122,17 +122,17 @@ website                  43 mins             ██░░░░░░░░░�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 8 AI Prompts
+🧠 19 AI Sessions, 5 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 21 characters per prompt
+📝 Concise Prompter — average 13 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/08/2026 13:46:47 UTC
+ Last Updated on 11/08/2026 13:45:06 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
