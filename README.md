@@ -67,13 +67,13 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-308%20hrs%206%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.11%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.12%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 624.2 kB Used in GitHub's Storage 
  > 
-> 🏆 7,818 Contributions in the Year 2026
+> 🏆 7,858 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,10 +84,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4563 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-🌆 Daytime                11617 commits       ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
-🌃 Evening                6987 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-🌙 Night                  23724 commits       █████████████░░░░░░░░░░░░   50.59 % 
+🌞 Morning                4563 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+🌆 Daytime                11617 commits       ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+🌃 Evening                6990 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+🌙 Night                  23760 commits       █████████████░░░░░░░░░░░░   50.63 % 
 ```
 
 
@@ -97,24 +97,24 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     3 hrs 45 mins       ███████████░░░░░░░░░░░░░░   44.42 % 
-YAML                     1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Other                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Bash                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-TypeScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Java                     3 hrs 20 mins       ███████████░░░░░░░░░░░░░░   42.93 % 
+YAML                     1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Other                    44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Bash                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+TypeScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 
 🐱‍💻 Projects: 
-crime-module             1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-Unknown Project          1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-configs                  48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-AtlantisClient           43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-website                  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+crime-module             1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Unknown Project          1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+AtlantisClient           43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+website                  43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+anticheat-module         34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 5 mins (36.61%)
+⏱ AI Coding Time: 3 hrs 5 mins (39.78%)
 
 ✍️ 0 lines written by AI, 210 lines written by hand (0.0% AI-written)
 
@@ -132,7 +132,7 @@ website                  43 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 11/08/2026 13:45:06 UTC
+ Last Updated on 12/08/2026 13:49:01 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
