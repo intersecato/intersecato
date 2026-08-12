@@ -138,7 +138,7 @@ website                  43 mins             ██░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 06 April 2026 - To: 09 August 2026
+From: 06 April 2026 - To: 10 August 2026
 
 Total Time: 460 hrs 56 mins
 
