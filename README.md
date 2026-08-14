@@ -73,7 +73,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 > 📦 624.2 kB Used in GitHub's Storage 
  > 
-> 🏆 7,893 Contributions in the Year 2026
+> 🏆 7,896 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -85,9 +85,9 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 ```text
 🌞 Morning                4563 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-🌆 Daytime                11619 commits       ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+🌆 Daytime                11621 commits       ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
 🌃 Evening                6990 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-🌙 Night                  23793 commits       █████████████░░░░░░░░░░░░   50.66 % 
+🌙 Night                  23794 commits       █████████████░░░░░░░░░░░░   50.66 % 
 ```
 
 
@@ -97,26 +97,26 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     2 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   38.42 % 
-Other                    44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-YAML                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-TypeScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+Other                    44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+YAML                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Java                     38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+TypeScript               33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+JavaScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
 
 🐱‍💻 Projects: 
-crime-module             1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-AtlantisClient           43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-website                  42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Unknown Project          41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-anticheat-module         34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+AtlantisClient           43 mins             █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+website                  36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Pedro                    33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+configs                  31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Unknown Project          26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 5 mins (53.35%)
+⏱ AI Coding Time: 3 hrs 5 mins (79.98%)
 
-✍️ 0 lines written by AI, 42 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 9 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -132,7 +132,7 @@ anticheat-module         34 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 13/08/2026 13:49:15 UTC
+ Last Updated on 14/08/2026 13:43:35 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
