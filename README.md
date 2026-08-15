@@ -138,7 +138,7 @@ Unknown Project          26 mins             ███░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 06 April 2026 - To: 12 August 2026
+From: 06 April 2026 - To: 13 August 2026
 
 Total Time: 460 hrs 56 mins
 
