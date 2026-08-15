@@ -73,7 +73,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 > 📦 624.2 kB Used in GitHub's Storage 
  > 
-> 🏆 7,896 Contributions in the Year 2026
+> 🏆 7,923 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,10 +84,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4563 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-🌆 Daytime                11621 commits       ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-🌃 Evening                6990 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-🌙 Night                  23794 commits       █████████████░░░░░░░░░░░░   50.66 % 
+🌞 Morning                4569 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+🌆 Daytime                11629 commits       ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
+🌃 Evening                6999 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+🌙 Night                  23819 commits       █████████████░░░░░░░░░░░░   50.66 % 
 ```
 
 
@@ -97,42 +97,42 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-YAML                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Java                     38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-TypeScript               33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-JavaScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Other                    38 mins             ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+YAML                     37 mins             ███████░░░░░░░░░░░░░░░░░░   28.22 % 
+TypeScript               33 mins             ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Java                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 
 🐱‍💻 Projects: 
-AtlantisClient           43 mins             █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-website                  36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Pedro                    33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-configs                  31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Unknown Project          26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+website                  36 mins             ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+Pedro                    33 mins             ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+configs                  31 mins             ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
+Unknown Project          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+furniture-module         7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 5 mins (79.98%)
+⏱ AI Coding Time: 1 hr 56 mins (88.87%)
 
-✍️ 0 lines written by AI, 9 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 8 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 5 AI Prompts
+🧠 8 AI Sessions, 1 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 13 characters per prompt
+📝 Concise Prompter — average 11 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/08/2026 13:43:35 UTC
+ Last Updated on 15/08/2026 13:08:22 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
