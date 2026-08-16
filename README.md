@@ -67,13 +67,13 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-308%20hrs%206%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.12%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.14%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 624.2 kB Used in GitHub's Storage 
  > 
-> 🏆 7,923 Contributions in the Year 2026
+> 🏆 7,929 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,10 +84,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4569 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-🌆 Daytime                11629 commits       ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
-🌃 Evening                6999 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-🌙 Night                  23819 commits       █████████████░░░░░░░░░░░░   50.66 % 
+🌞 Morning                4593 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+🌆 Daytime                11722 commits       ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
+🌃 Evening                7087 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+🌙 Night                  23865 commits       █████████████░░░░░░░░░░░░   50.49 % 
 ```
 
 
@@ -97,24 +97,24 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    38 mins             ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-YAML                     37 mins             ███████░░░░░░░░░░░░░░░░░░   28.22 % 
-TypeScript               33 mins             ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Java                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+TypeScript               33 mins             ███████████░░░░░░░░░░░░░░   42.11 % 
+Other                    23 mins             ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Java                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
 
 🐱‍💻 Projects: 
-website                  36 mins             ███████░░░░░░░░░░░░░░░░░░   28.17 % 
-Pedro                    33 mins             ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-configs                  31 mins             ██████░░░░░░░░░░░░░░░░░░░   23.66 % 
-Unknown Project          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-furniture-module         7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+website                  36 mins             ████████████░░░░░░░░░░░░░   46.39 % 
+Pedro                    18 mins             ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+Unknown Project          9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+furniture-module         7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+AtlantisRP               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 56 mins (88.87%)
+⏱ AI Coding Time: 1 hr 8 mins (86.29%)
 
 ✍️ 0 lines written by AI, 8 lines written by hand (0.0% AI-written)
 
@@ -122,7 +122,7 @@ furniture-module         7 mins              █░░░░░░░░░░�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 1 AI Prompts
+🧠 6 AI Sessions, 1 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
@@ -132,7 +132,7 @@ furniture-module         7 mins              █░░░░░░░░░░�
 ```
 
 
- Last Updated on 15/08/2026 13:08:22 UTC
+ Last Updated on 16/08/2026 13:07:07 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
