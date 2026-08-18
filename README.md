@@ -63,9 +63,9 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-425%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-425%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-308%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-308%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.14%20million%20lines%20of%20code-blue?style=flat)
 
@@ -73,7 +73,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 > 📦 624.2 kB Used in GitHub's Storage 
  > 
-> 🏆 7,929 Contributions in the Year 2026
+> 🏆 7,998 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,10 +84,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4593 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-🌆 Daytime                11722 commits       ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
-🌃 Evening                7087 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-🌙 Night                  23865 commits       █████████████░░░░░░░░░░░░   50.49 % 
+🌞 Morning                4598 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+🌆 Daytime                11734 commits       ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+🌃 Evening                7094 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+🌙 Night                  23940 commits       █████████████░░░░░░░░░░░░   50.54 % 
 ```
 
 
@@ -97,42 +97,39 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-TypeScript               33 mins             ███████████░░░░░░░░░░░░░░   42.11 % 
-Other                    23 mins             ███████░░░░░░░░░░░░░░░░░░   29.09 % 
-Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Java                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+JSON                     16 mins             ██████████░░░░░░░░░░░░░░░   40.53 % 
+YAML                     12 mins             ████████░░░░░░░░░░░░░░░░░   32.84 % 
+JavaScript               7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Bash                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🐱‍💻 Projects: 
-website                  36 mins             ████████████░░░░░░░░░░░░░   46.39 % 
-Pedro                    18 mins             ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-Unknown Project          9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-furniture-module         7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-AtlantisRP               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Unknown Project          27 mins             █████████████████░░░░░░░░   68.57 % 
+api                      12 mins             ████████░░░░░░░░░░░░░░░░░   31.43 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 8 mins (86.29%)
+⏱ AI Coding Time: 11 mins (29.7%)
 
-✍️ 0 lines written by AI, 8 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 1 AI Prompts
+🧠 2 AI Sessions, 9 AI Prompts
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 11 characters per prompt
-🎯 One-Shot Prompter — average 0 prompts per session
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 6,007 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/08/2026 13:07:07 UTC
+ Last Updated on 18/08/2026 13:16:40 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
