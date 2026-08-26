@@ -73,7 +73,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 > 📦 624.4 kB Used in GitHub's Storage 
  > 
-> 🏆 8,202 Contributions in the Year 2026
+> 🏆 8,235 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,10 +84,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4572 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-🌆 Daytime                11718 commits       ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-🌃 Evening                7026 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-🌙 Night                  24027 commits       █████████████░░░░░░░░░░░░   50.75 % 
+🌞 Morning                4572 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+🌆 Daytime                11750 commits       ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+🌃 Evening                7049 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+🌙 Night                  24039 commits       █████████████░░░░░░░░░░░░   50.70 % 
 ```
 
 
@@ -97,46 +97,44 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    3 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   38.68 % 
-Java                     2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.72 % 
-TypeScript               1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-JSON                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Other                    3 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   41.00 % 
+Java                     3 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   37.33 % 
+TypeScript               57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Groovy                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🐱‍💻 Projects: 
-website                  2 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-Analisi                  2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-laroc                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-Atlantis                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-backpacks-module         47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Analisi                  2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+website                  1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+backpacks-module         1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+laroc                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Atlantis                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 6 mins (95.09%)
+⏱ AI Coding Time: 7 hrs 45 mins (95.23%)
 
-✍️ 1,131 lines written by AI, 24 lines written by hand (97.92% AI-written)
+✍️ 1,182 lines written by AI, 26 lines written by hand (97.85% AI-written)
 
-🔤 46,133 Input Tokens, 3,480 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.82 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 432 AI Prompts
+🧠 27 AI Sessions, 433 AI Prompts
 
-Droid                    1,099 lines         ████████████████████████░   96.23 % 
-Gemini                   42 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-GPT                      1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Droid                    1,182 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.92% of written lines came from AI
-📚 Verbose Prompter — average 9,124 characters per prompt
+🤖 AI-Driven — 97.85% of written lines came from AI
+📚 Verbose Prompter — average 9,011 characters per prompt
 🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 7.31% of changed lines were hand-edited
+🚀 High AI Trust — 7.22% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/08/2026 13:17:16 UTC
+ Last Updated on 26/08/2026 13:27:52 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
