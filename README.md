@@ -67,13 +67,13 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-318%20hrs%2033%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.13%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.14%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 624.5 kB Used in GitHub's Storage 
  > 
-> 🏆 8,276 Contributions in the Year 2026
+> 🏆 8,316 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,10 +84,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4590 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-🌆 Daytime                11763 commits       ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
-🌃 Evening                7067 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-🌙 Night                  24041 commits       █████████████░░░░░░░░░░░░   50.65 % 
+🌞 Morning                4612 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+🌆 Daytime                11827 commits       ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
+🌃 Evening                7114 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+🌙 Night                  24047 commits       █████████████░░░░░░░░░░░░   50.52 % 
 ```
 
 
@@ -97,24 +97,24 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    3 hrs 56 mins       ████████████░░░░░░░░░░░░░   48.00 % 
-Java                     2 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   33.85 % 
-TypeScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Groovy                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Other                    4 hrs 9 mins        ████████████░░░░░░░░░░░░░   49.21 % 
+Java                     2 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   33.14 % 
+TypeScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Groovy                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🐱‍💻 Projects: 
-Analisi                  3 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   41.32 % 
-website                  1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-backpacks-module         1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-laroc                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-casino-module            26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Analisi                  3 hrs 36 mins       ███████████░░░░░░░░░░░░░░   42.61 % 
+website                  1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+backpacks-module         1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+laroc                    49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+casino-module            26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 54 mins (96.23%)
+⏱ AI Coding Time: 8 hrs 9 mins (96.34%)
 
 ✍️ 1,182 lines written by AI, 24 lines written by hand (98.01% AI-written)
 
@@ -122,19 +122,19 @@ casino-module            26 mins             █░░░░░░░░░░�
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 417 AI Prompts
+🧠 22 AI Sessions, 429 AI Prompts
 
 Droid                    1,182 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.01% of written lines came from AI
-📚 Verbose Prompter — average 9,315 characters per prompt
+📚 Verbose Prompter — average 9,730 characters per prompt
 🔁 Iterative Prompter — average 20 prompts per session
 🚀 High AI Trust — 2.96% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/08/2026 22:28:25 UTC
+ Last Updated on 28/08/2026 22:27:14 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
