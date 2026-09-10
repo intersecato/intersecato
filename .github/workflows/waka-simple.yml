@@ -18,8 +18,5 @@ jobs:
           SECTION_NAME: "waka-simple"
           COMMIT_MESSAGE: "Updated simple waka stats section"
           BAR_STYLE: "solid"
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          SHOW_TITLE: true
-    
+          SHOW_TOTAL_CODE_TIME: "true"
+          SHOW_SHORT_INFO: "true"
