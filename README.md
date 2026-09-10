@@ -63,78 +63,19 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%209%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-338%20hrs%2029%20mins-blue?style=flat)
+```txt
+From: 06 April 2026 - To: 09 September 2026
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.21%20million%20lines%20of%20code-blue?style=flat)
+Total Time: 498 hrs 35 mins
 
-**🐱 My GitHub Data** 
-
-> 📦 650.7 kB Used in GitHub's Storage 
- > 
-> 🏆 8,754 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 17 Public Repositories 
- > 
-> 🔑 45 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                4728 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-🌆 Daytime                12172 commits       ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
-🌃 Evening                7494 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-🌙 Night                  24493 commits       █████████████░░░░░░░░░░░░   50.10 % 
+Java              253 hrs 50 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.91 %
+Other             49 hrs 57 mins        ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.02 %
+YAML              47 hrs                ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.43 %
+TypeScript        36 hrs 50 mins        ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.39 %
+JSON              15 hrs 47 mins        ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.17 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Rome
-
-💬 Programming Languages: 
-Java                     9 hrs 30 mins       ████████████░░░░░░░░░░░░░   48.44 % 
-Other                    7 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   40.10 % 
-YAML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-Groovy                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-
-🐱‍💻 Projects: 
-Atlantis                 4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-documents-module         3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-house-module             1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-companies-module         1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-tv-module                1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 18 hrs 41 mins (95.12%)
-
-✍️ 3,054 lines written by AI, 70 lines written by hand (97.76% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 58 AI Sessions, 1051 AI Prompts
-
-Droid                    3,054 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 97.76% of written lines came from AI
-📚 Verbose Prompter — average 10,302 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 8.89% of changed lines were hand-edited
-```
-
-
- Last Updated on 09/09/2026 16:49:38 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
