@@ -78,7 +78,7 @@ JSON              15 hrs 47 mins        ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:waka-simple-->
+<!--START_SECTION:wakasimple-->
 
 ```text
 From: 06 April 2026 - To: 05 September 2026
@@ -90,7 +90,7 @@ YAML              46 hrs 7 mins   ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 Other             42 hrs 40 mins  ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.85 %
 ```
 
-<!--END_SECTION:waka-simple-->
+<!--END_SECTION:wakasimple-->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
