@@ -63,17 +63,17 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-448%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-343%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-344%20hrs%2032%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.22%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.21%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 650.7 kB Used in GitHub's Storage 
  > 
-> 🏆 8,787 Contributions in the Year 2026
+> 🏆 8,817 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,10 +84,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4742 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-🌆 Daytime                12206 commits       ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-🌃 Evening                7527 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-🌙 Night                  24527 commits       █████████████░░░░░░░░░░░░   50.05 % 
+🌞 Morning                4733 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+🌆 Daytime                12173 commits       ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+🌃 Evening                7509 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+🌙 Night                  24541 commits       █████████████░░░░░░░░░░░░   50.13 % 
 ```
 
 
@@ -97,44 +97,44 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     9 hrs 46 mins       ████████████░░░░░░░░░░░░░   47.57 % 
-Other                    8 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   39.99 % 
-YAML                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Groovy                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Java                     10 hrs 12 mins      ████████████░░░░░░░░░░░░░   46.52 % 
+Other                    8 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   39.75 % 
+YAML                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Groovy                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+JSON                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🐱‍💻 Projects: 
-Atlantis                 4 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-documents-module         3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-house-module             1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-companies-module         1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-tv-module                1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Atlantis                 4 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+documents-module         3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+house-module             1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+companies-module         1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+tv-module                1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 19 mins (94.09%)
+⏱ AI Coding Time: 20 hrs 24 mins (92.97%)
 
-✍️ 3,054 lines written by AI, 2,787 lines written by hand (52.29% AI-written)
+✍️ 3,399 lines written by AI, 2,788 lines written by hand (54.94% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 58 AI Sessions, 1058 AI Prompts
+🧠 62 AI Sessions, 1183 AI Prompts
 
-Droid                    3,054 lines         █████████████████████████   100.00 % 
+Droid                    3,399 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 52.29% of written lines came from AI
-📚 Verbose Prompter — average 10,218 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 49.93% of changed lines were hand-edited
+⚖️ Balanced with AI — 54.94% of written lines came from AI
+📚 Verbose Prompter — average 9,888 characters per prompt
+🔁 Iterative Prompter — average 19 prompts per session
+🔍 Hands-On Reviewer — 60.59% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/09/2026 17:13:07 UTC
+ Last Updated on 11/09/2026 16:39:06 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:wakasimple-->
