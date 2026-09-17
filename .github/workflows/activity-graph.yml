@@ -1,0 +1,44 @@
+name: Generate Activity Graph
+
+on:
+  # Runs at 01:00 UTC every day
+  schedule:
+    - cron: "0 1 * * *"
+
+  # Allows manual trigger
+  workflow_dispatch:
+
+  # Runs on every push to main branch
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Generate the activity graph SVG locally (replaces the discontinued
+      # public instance at github-readme-activity-graph.vercel.app)
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: theme=github-dark-dimmed&custom_title=intersecato%20Activity%20Graph&hide_border=true
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.ACCESS_TOKEN || secrets.GH_TOKEN || secrets.GITHUB_TOKEN }}
+
+      # Push to its own branch
+      - name: Push activity graph to activity-graph branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: activity-graph
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
