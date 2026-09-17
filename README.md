@@ -96,7 +96,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.9.20](https://github.com/CoralRP/AtlantisUpdates/releases/tag/v0.9.20) in [CoralRP/AtlantisUpdates](https://github.com/CoralRP/AtlantisUpdates)
+1. 💪 Opened PR [#1781](https://github.com/plankanban/planka/pull/1781) in [plankanban/planka](https://github.com/plankanban/planka)
 2. 🚀 Published release [0.9.19](https://github.com/CoralRP/AtlantisUpdates/releases/tag/v0.9.19) in [CoralRP/AtlantisUpdates](https://github.com/CoralRP/AtlantisUpdates)
 3. 🚀 Published release [0.9.18](https://github.com/CoralRP/AtlantisUpdates/releases/tag/v0.9.18) in [CoralRP/AtlantisUpdates](https://github.com/CoralRP/AtlantisUpdates)
 4. 💪 Opened PR [#33](https://github.com/InventivetalentDev/MineskinClient/pull/33) in [InventivetalentDev/MineskinClient](https://github.com/InventivetalentDev/MineskinClient)
