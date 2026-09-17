@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24,32&height=180&section=header&text=Niccolò%20Pedrini&fontSize=42&fontAlignY=38&desc=Engineering%20Student%20•%20Software%20%26%20Simulation&descAlignY=62&descAlign=50" width="100%" alt="Niccolò Pedrini" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24,32&height=180&section=header&text=Niccolò%20Pedrini&fontSize=42&fontAlignY=38&desc=Engineering%20Student%20•%20Software%20%26amp;%20Simulation&descAlignY=62&descAlign=50" width="100%" alt="Niccolò Pedrini" />
 </div>
 
 <div align="center">
@@ -108,11 +108,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 ### 📊 Coding Metrics & Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%2051%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-365%20hrs%2058%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.25%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%2051%20mins-blue?style=flat) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.25%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -155,29 +151,6 @@ Atlantis                 3 hrs 9 mins        ███░░░░░░░░�
 house-module             2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
 Unknown Project          2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 ```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 23 hrs 16 mins (89.94%)
-
-✍️ 6,799 lines written by AI, 2,811 lines written by hand (70.75% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 56 AI Sessions, 1571 AI Prompts
-
-Droid                    6,799 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 70.75% of written lines came from AI
-📚 Verbose Prompter — average 8,046 characters per prompt
-🔁 Iterative Prompter — average 28 prompts per session
-🚀 High AI Trust — 43.87% of changed lines were hand-edited
-```
-
 
  Last Updated on 16/09/2026 16:59:52 UTC
 <!--END_SECTION:waka-->

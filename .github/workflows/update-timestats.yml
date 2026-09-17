@@ -30,3 +30,5 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_DAYS_OF_WEEK: "False"
           SHOW_SHORT_INFO: "True"
+          SHOW_AI_CODE_TIME: "False"
+          SHOW_AI_CODING: "False"
