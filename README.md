@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24,32&height=180&section=header&text=Niccolò%20Pedrini&fontSize=42&fontAlignY=38&desc=Engineering%20Student%20•%20Software%20%26amp;%20Simulation&descAlignY=62&descAlign=50" width="100%" alt="Niccolò Pedrini" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24,32&height=180&section=header&text=Niccolò%20Pedrini&fontSize=42&fontAlignY=26&desc=Engineering%20Student%20•%20Software%20%26amp;%20Simulation&descAlignY=45&descAlign=50" width="100%" alt="Niccolò Pedrini" />
 </div>
 
 <div align="center">
