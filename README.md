@@ -1,35 +1,50 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24,32&height=180&section=header&text=Niccolò%20Pedrini&fontSize=42&fontAlignY=38&desc=Engineering%20Student%20•%20Software%20%26%20Simulation&descAlignY=62&descAlign=50" width="100%" alt="Niccolò Pedrini" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Engineering+Student+%F0%9F%8E%93;Aerospace+%26+Simulation+Enthusiast+%F0%9F%9A%80;Full+Stack+%26+Backend+Developer+%E2%9A%99%EF%B8%8F;Passionate+Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
+</div>
+
 <p align="center">
-  <a href="https://github.com/intersecato/intersecato/actions" style="text-decoration:none;">
-    <img src="https://github.com/intersecato/intersecato/workflows/github-activity/badge.svg" style="border:0;" />
+  <a href="https://github.com/intersecato/intersecato/actions">
+    <img src="https://github.com/intersecato/intersecato/workflows/github-activity/badge.svg" alt="github-activity" />
   </a>
-
-  <a href="https://github.com/intersecato/intersecato/actions" style="text-decoration:none;">
-    <img src="https://github.com/intersecato/intersecato/workflows/waka-devmetrics/badge.svg" style="border:0;" />
+  <a href="https://github.com/intersecato/intersecato/actions">
+    <img src="https://github.com/intersecato/intersecato/workflows/waka-devmetrics/badge.svg" alt="waka-devmetrics" />
   </a>
-
-  <a href="https://github.com/intersecato/intersecato/actions" style="text-decoration:none;">
-    <img src="https://github.com/intersecato/intersecato/workflows/waka-metrics/badge.svg" style="border:0;" />
+  <a href="https://github.com/intersecato/intersecato/actions">
+    <img src="https://github.com/intersecato/intersecato/workflows/waka-metrics/badge.svg" alt="waka-metrics" />
+  </a>
+  <a href="https://github.com/intersecato/intersecato/actions">
+    <img src="https://github.com/intersecato/intersecato/workflows/activity-graph/badge.svg" alt="activity-graph" />
   </a>
 </p>
 
-<p align="center">
-  <img alt="loficity" height="180px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif" />
-  <img src="https://socialify.git.ci/intersecato/intersecato/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Plus&theme=Dark" 
-       alt="intersecato" height="180px" />
-</p>
+---
 
-<p align="center">
+<div align="center">
+  <img alt="loficity" height="175px" src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/loficity.gif" />
+  <img src="https://socialify.git.ci/intersecato/intersecato/image?font=Source%20Code%20Pro&language=1&name=1&owner=1&pattern=Plus&theme=Dark" alt="intersecato" height="175px" />
+</div>
+
 <br/>
-<a href="https://instagram.com/niccolo.pedrinii">
-  <img alt="Instagram" width="50px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
-</a>
-<a href="https://t.me/intersecato">
-  <img alt="Telegram" width="50px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />
-</a>
-<br>
-</p>
 
-![activity graph](https://raw.githubusercontent.com/intersecato/intersecato/activity-graph/activity-graph.svg)
+<div align="center">
+  <a href="https://t.me/intersecato" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://instagram.com/niccolo.pedrinii" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:business@intersecato.it">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+---
+
+### 👨‍💻 About Me
 
 ```yaml
 name: Niccolò Pedrini
@@ -43,16 +58,42 @@ will_learn: ["Scalable Backend Systems", "Embedded Development", "Aerospace Soft
 hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 ```
 
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=npedrini03&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false">
-</p>
+### 🛠️ Languages & Technologies
 
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=npedrini03&count=5">
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,ts,js,react,nodejs,docker,linux,git,githubactions,idea,vscode" alt="My Skills" />
+  </a>
+</div>
 
+---
 
-**:zap: Recent Activity:**
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/intersecato/intersecato/activity-graph/activity-graph.svg" alt="activity graph" width="98%" />
+</div>
+
+---
+
+### 🎵 What I'm Listening To
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=npedrini03&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=npedrini03&count=5" alt="Recent Spotify Tracks" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [0.9.20](https://github.com/CoralRP/AtlantisUpdates/releases/tag/v0.9.20) in [CoralRP/AtlantisUpdates](https://github.com/CoralRP/AtlantisUpdates)
@@ -61,6 +102,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 4. 💪 Opened PR [#33](https://github.com/InventivetalentDev/MineskinClient/pull/33) in [InventivetalentDev/MineskinClient](https://github.com/InventivetalentDev/MineskinClient)
 5. 🔒 Closed issue [#1352](https://github.com/retrooper/packetevents/issues/1352) in [retrooper/packetevents](https://github.com/retrooper/packetevents)
 <!--END_SECTION:activity-->
+
+---
+
+### 📊 Coding Metrics & Stats
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%2051%20mins-blue?style=flat)
@@ -153,6 +198,6 @@ JSON              16 hrs 14 mins        ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:wakasimple-->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" alt="Footer" />
+</div>

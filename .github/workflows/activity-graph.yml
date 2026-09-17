@@ -1,4 +1,4 @@
-name: Generate Activity Graph
+name: activity-graph
 
 on:
   # Runs at 01:00 UTC every day
