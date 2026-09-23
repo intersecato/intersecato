@@ -108,7 +108,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 ### 📊 Coding Metrics & Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-477%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-485%20hrs%2036%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.63%20million%20lines%20of%20code-blue?style=flat)
 
@@ -116,7 +116,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 > 📦 651.0 kB Used in GitHub's Storage 
  > 
-> 🏆 9,176 Contributions in the Year 2026
+> 🏆 9,220 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -128,9 +128,9 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 ```text
 🌞 Morning                4769 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-🌆 Daytime                12238 commits       ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
-🌃 Evening                7590 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-🌙 Night                  24802 commits       █████████████░░░░░░░░░░░░   50.21 % 
+🌆 Daytime                12238 commits       ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
+🌃 Evening                7592 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+🌙 Night                  24830 commits       █████████████░░░░░░░░░░░░   50.23 % 
 ```
 
 
@@ -140,22 +140,22 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    7 hrs               █████████░░░░░░░░░░░░░░░░   37.18 % 
-Java                     2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-TypeScript               2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-C++                      1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
-JSON                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+TypeScript               9 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   37.31 % 
+Other                    6 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   26.99 % 
+JSON                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+C++                      1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+JavaScript               1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 
 🐱‍💻 Projects: 
-website                  4 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
-Unknown Project          2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-esp32-flightradar        1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Atlantis                 1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-planka                   1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+website                  13 hrs 52 mins      ██████████████░░░░░░░░░░░   55.93 % 
+Unknown Project          2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+esp32-flightradar        1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+planka                   1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Atlantis                 1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 ```
 
 
- Last Updated on 22/09/2026 17:09:34 UTC
+ Last Updated on 23/09/2026 16:57:33 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:wakasimple-->
