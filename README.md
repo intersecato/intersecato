@@ -96,11 +96,11 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#221](https://github.com/matze/wastebin/pull/221) in [matze/wastebin](https://github.com/matze/wastebin)
-2. 🗣 Commented on [#221](https://github.com/matze/wastebin/pull/221#issuecomment-5956037085) in [matze/wastebin](https://github.com/matze/wastebin)
-3. 💪 Opened PR [#221](https://github.com/matze/wastebin/pull/221) in [matze/wastebin](https://github.com/matze/wastebin)
-4. 💪 Opened PR [#3780](https://github.com/JannisX11/blockbench/pull/3780) in [JannisX11/blockbench](https://github.com/JannisX11/blockbench)
-5. 💪 Opened PR [#1781](https://github.com/plankanban/planka/pull/1781) in [plankanban/planka](https://github.com/plankanban/planka)
+1. 🚀 Published release [0.9.21](https://github.com/CoralRP/AtlantisUpdates/releases/tag/v0.9.21) in [CoralRP/AtlantisUpdates](https://github.com/CoralRP/AtlantisUpdates)
+2. 🎉 Merged PR [#221](https://github.com/matze/wastebin/pull/221) in [matze/wastebin](https://github.com/matze/wastebin)
+3. 🗣 Commented on [#221](https://github.com/matze/wastebin/pull/221#issuecomment-5956037085) in [matze/wastebin](https://github.com/matze/wastebin)
+4. 💪 Opened PR [#221](https://github.com/matze/wastebin/pull/221) in [matze/wastebin](https://github.com/matze/wastebin)
+5. 💪 Opened PR [#3780](https://github.com/JannisX11/blockbench/pull/3780) in [JannisX11/blockbench](https://github.com/JannisX11/blockbench)
 <!--END_SECTION:activity-->
 
 ---
