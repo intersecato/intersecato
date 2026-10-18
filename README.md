@@ -108,7 +108,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 ### 📊 Coding Metrics & Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-614%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.07%20million%20lines%20of%20code-blue?style=flat)
 
@@ -116,7 +116,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 > 📦 651.1 kB Used in GitHub's Storage 
  > 
-> 🏆 9,892 Contributions in the Year 2026
+> 🏆 9,902 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -128,9 +128,9 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 ```text
 🌞 Morning                4960 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-🌆 Daytime                12860 commits       ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-🌃 Evening                8358 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-🌙 Night                  25525 commits       ████████████░░░░░░░░░░░░░   49.37 % 
+🌆 Daytime                12867 commits       ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+🌃 Evening                8361 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+🌙 Night                  25529 commits       ████████████░░░░░░░░░░░░░   49.36 % 
 ```
 
 
@@ -140,22 +140,22 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Java                     24 hrs 3 mins       ███████████░░░░░░░░░░░░░░   45.32 % 
-Other                    6 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-YAML                     6 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Image (png)              3 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-Groovy                   3 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Java                     21 hrs 3 mins       ███████████░░░░░░░░░░░░░░   44.09 % 
+Other                    7 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+YAML                     5 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Groovy                   2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+Image (png)              2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 🐱‍💻 Projects: 
-Atlantis                 8 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-telegram-module          6 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-configs                  4 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-vehicles-module          3 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-crime-module             2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+telegram-module          6 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.77 % 
+Atlantis                 5 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+configs                  3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+crime-module             2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+companies-module         1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 ```
 
 
- Last Updated on 17/10/2026 15:41:32 UTC
+ Last Updated on 18/10/2026 16:03:14 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:wakasimple-->
