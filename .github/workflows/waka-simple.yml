@@ -9,16 +9,28 @@ jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: athul/waka-readme@master
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
+          token: ${{ secrets.GH_TOKEN || github.token }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Update Waka Simple Stats
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SECTION_NAME: wakasimple
-          COMMIT_MESSAGE: Updated simple waka stats section
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          SHOW_TITLE: true
-    
+        run: |
+          python .github/scripts/update_wakasimple.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "Pedro"
+          git config --global user.email "npedrini2003@icloud.com"
+          git add README.md
+          git diff --staged --quiet || (git commit -m "Updated simple waka stats section" && git push)
