@@ -108,15 +108,15 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 ### 📊 Coding Metrics & Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-679%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-687%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.83%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.52%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 652.0 kB Used in GitHub's Storage 
  > 
-> 🏆 10,723 Contributions in the Year 2026
+> 🏆 10,782 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -124,8 +124,38 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
  > 
 > 🔑 46 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 03/11/2026 19:50:03 UTC
+```text
+🌞 Morning                4588 commits        █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+🌆 Daytime                5931 commits        ███████░░░░░░░░░░░░░░░░░░   28.14 % 
+🌃 Evening                7357 commits        █████████░░░░░░░░░░░░░░░░   34.90 % 
+🌙 Night                  3204 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+Java                     11 hrs 50 mins      ████████░░░░░░░░░░░░░░░░░   30.35 % 
+Other                    9 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+YAML                     6 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+TypeScript               2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Groovy                   2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+
+🐱‍💻 Projects: 
+configs                  6 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+website                  4 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Atlantis                 1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+crime-module             1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+wiki                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+```
+
+
+ Last Updated on 04/11/2026 20:05:36 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:wakasimple-->
