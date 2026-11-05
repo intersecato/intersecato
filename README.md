@@ -108,15 +108,15 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 ### 📊 Coding Metrics & Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-687%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-692%20hrs%2052%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.52%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.85%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 652.0 kB Used in GitHub's Storage 
  > 
-> 🏆 10,782 Contributions in the Year 2026
+> 🏆 10,823 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -127,10 +127,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4588 commits        █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-🌆 Daytime                5931 commits        ███████░░░░░░░░░░░░░░░░░░   28.14 % 
-🌃 Evening                7357 commits        █████████░░░░░░░░░░░░░░░░   34.90 % 
-🌙 Night                  3204 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+🌞 Morning                4603 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+🌆 Daytime                11843 commits       ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+🌃 Evening                7336 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+🌙 Night                  25488 commits       █████████████░░░░░░░░░░░░   51.73 % 
 ```
 
 
@@ -155,7 +155,7 @@ wiki                     1 hr 32 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 04/11/2026 20:05:36 UTC
+ Last Updated on 05/11/2026 20:15:33 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:wakasimple-->
