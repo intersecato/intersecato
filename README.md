@@ -96,11 +96,11 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.11.2](https://github.com/CoralRP/AtlantisUpdates/releases/tag/v0.11.2) in [CoralRP/AtlantisUpdates](https://github.com/CoralRP/AtlantisUpdates)
-2. 🚀 Published release [0.11.1](https://github.com/CoralRP/AtlantisUpdates/releases/tag/v0.11.1) in [CoralRP/AtlantisUpdates](https://github.com/CoralRP/AtlantisUpdates)
-3. 🚀 Published release [0.11.0](https://github.com/CoralRP/AtlantisUpdates/releases/tag/v0.11.0) in [CoralRP/AtlantisUpdates](https://github.com/CoralRP/AtlantisUpdates)
-4. 💪 Opened PR [#3726](https://github.com/IntellectualSites/FastAsyncWorldEdit/pull/3726) in [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit)
-5. 🎉 Merged PR [#2328](https://github.com/EngineHub/WorldGuard/pull/2328) in [EngineHub/WorldGuard](https://github.com/EngineHub/WorldGuard)
+1. 💪 Opened PR [#3733](https://github.com/IntellectualSites/FastAsyncWorldEdit/pull/3733) in [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit)
+2. 💪 Opened PR [#3732](https://github.com/IntellectualSites/FastAsyncWorldEdit/pull/3732) in [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit)
+3. 💪 Opened PR [#3731](https://github.com/IntellectualSites/FastAsyncWorldEdit/pull/3731) in [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit)
+4. 🗣 Commented on [#3728](https://github.com/IntellectualSites/FastAsyncWorldEdit/pull/3728#issuecomment-6875566013) in [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit)
+5. 🗣 Commented on [#3728](https://github.com/IntellectualSites/FastAsyncWorldEdit/pull/3728#issuecomment-6875292810) in [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit)
 <!--END_SECTION:activity-->
 
 ---
