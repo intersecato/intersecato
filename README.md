@@ -116,7 +116,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 > 📦 652.1 kB Used in GitHub's Storage 
  > 
-> 🏆 11,914 Contributions in the Year 2026
+> 🏆 11,931 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -127,10 +127,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4741 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-🌆 Daytime                12049 commits       ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-🌃 Evening                7491 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-🌙 Night                  25911 commits       █████████████░░░░░░░░░░░░   51.62 % 
+🌞 Morning                4743 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+🌆 Daytime                12049 commits       ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+🌃 Evening                7496 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+🌙 Night                  25918 commits       █████████████░░░░░░░░░░░░   51.62 % 
 ```
 
 
@@ -140,22 +140,22 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    5 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   35.09 % 
-Java                     3 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-YAML                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-JSON                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-TypeScript               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Other                    5 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   40.24 % 
+Java                     3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+JSON                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+TypeScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Groovy                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 🐱‍💻 Projects: 
-website                  1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
-Pedro                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-hospital-module          1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-configs                  1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-roleplay)                1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+website                  1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+hospital-module          1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+roleplay)                1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+Pedro                    1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Atlantis                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 ```
 
 
- Last Updated on 25/11/2026 21:53:20 UTC
+ Last Updated on 26/11/2026 21:37:57 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:wakasimple-->
