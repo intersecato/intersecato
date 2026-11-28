@@ -108,7 +108,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 ### 📊 Coding Metrics & Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-768%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-768%20hrs%2051%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.92%20million%20lines%20of%20code-blue?style=flat)
 
@@ -116,7 +116,7 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 
 > 📦 652.1 kB Used in GitHub's Storage 
  > 
-> 🏆 11,937 Contributions in the Year 2026
+> 🏆 11,940 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -127,10 +127,10 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4749 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+🌞 Morning                4749 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
 🌆 Daytime                12049 commits       ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-🌃 Evening                7505 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-🌙 Night                  25922 commits       █████████████░░░░░░░░░░░░   51.61 % 
+🌃 Evening                7507 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+🌙 Night                  25923 commits       █████████████░░░░░░░░░░░░   51.61 % 
 ```
 
 
@@ -140,22 +140,22 @@ hobbies: ["Flight Simulators", "Gaming", "Tech & Innovation"]
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    5 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.28 % 
-Java                     2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
-JSON                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-TypeScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-Groovy                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Other                    4 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   41.10 % 
+Java                     2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+JSON                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Groovy                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+TypeScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 
 🐱‍💻 Projects: 
-website                  1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Pedro                    1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-roleplay)                1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-hospital-module          1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-AtlantisClient           54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Pedro                    1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+website                  1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+AtlantisClient           54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+roleplay)                49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+advent-module            32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 ```
 
 
- Last Updated on 27/11/2026 21:20:08 UTC
+ Last Updated on 28/11/2026 20:08:25 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:wakasimple-->
